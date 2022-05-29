@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "satyamgarhewal",
+    "password": null,
+    "database": "sequelize_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "satyamgarhewal",
+    "password": null,
+    "database": "sequelize_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "satyamgarhewal",
+    "password": null,
+    "database": "sequelize_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
